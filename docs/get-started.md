@@ -17,6 +17,6 @@ To launch the game, the following parameters are needed
 
 The above parameters are appended to the game launch url as below;
 
-```mdx
+```
 https://avionix.gameyetu.com/?merchant={merchant}&token={token}
 ```
