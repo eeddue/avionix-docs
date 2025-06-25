@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-## Avionix Integration guide
-
-**Game launch process**
+# Getting Started
 
 To launch the game, the following parameters are needed
 

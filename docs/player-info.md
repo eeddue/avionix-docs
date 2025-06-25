@@ -5,7 +5,7 @@ sidebar_position: 2
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## Player Info
+# Player Info
 
 This request is sent to merchant's callback url to get the user details
 
