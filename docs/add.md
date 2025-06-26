@@ -22,7 +22,7 @@ This request is used to add a given amount to a player's wallet
     | Parameter   | Description                                                                 |
     | ----------- | --------------------------------------------------------------------------- |
     | token       | **String** - Player's token on the merchant's side                          |
-    | amount      | **Number** - Amount to be deducted from the player's wallet                 |
+    | amount      | **Number** - Amount to be added to the player's wallet                 |
     | action      | **`win`** / **`claim-rain`** / **`free-bet`** - Reason for amount addition  |
   </TabItem>
   
