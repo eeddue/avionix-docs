@@ -9,10 +9,10 @@ import TabItem from '@theme/TabItem';
 
 This request is used to request for player details.
 
-| path    | **`/player-info`** |
-| ------- | ------------------ |
-| method  | **`POST`**         |
-| headers | **`x-api-key`**    |
+| path    | **`/info`**     |
+| ------- | --------------- |
+| method  | **`POST`**      |
+| headers | **`x-api-key`** |
 
 ### Request
 
