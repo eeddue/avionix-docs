@@ -1,12 +1,12 @@
-import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { themes as prismThemes } from "prism-react-renderer";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Avionix Docs",
-  tagline: "Avionix Integration Guide",
+  title: "Gameyetu Integration Guide",
+  tagline: "Gameyetu Integration Guide",
   favicon: "img/favicon.png",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "eeddue", // Usually your GitHub org/user name.
-  projectName: "avionix-docs", // Usually your repo name.
+  projectName: "gameyetu-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -72,7 +72,7 @@ const config: Config = {
       title: "",
       logo: {
         alt: "Home",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       items: [
         {
@@ -82,7 +82,7 @@ const config: Config = {
           label: "Tutorial",
         },
         {
-          href: "https://github.com/eeddue/avionix-docs",
+          href: "https://github.com/eeddue/gameyetu-docs",
           label: "GitHub",
           position: "right",
         },
