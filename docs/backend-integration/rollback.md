@@ -9,9 +9,8 @@ import TabItem from '@theme/TabItem';
 
 This request is used to add a given amount to a player's wallet when a given game action that had deducted the same amount from the wallet, fails.
 
-|         |                 |
-| ------- | --------------- |
 | path    | **`/rollback`** |
+| ------- | --------------- |
 | method  | **`POST`**      |
 | headers | **`x-api-key`** |
 

@@ -9,9 +9,8 @@ import TabItem from '@theme/TabItem';
 
 This request is used to add a given amount to a player's wallet
 
-|         |                 |
-| ------- | --------------- |
 | path    | **`/add`**      |
+| ------- | --------------- |
 | method  | **`POST`**      |
 | headers | **`x-api-key`** |
 

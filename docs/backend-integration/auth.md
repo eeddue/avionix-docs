@@ -9,11 +9,10 @@ import TabItem from '@theme/TabItem';
 
 This request is sent to merchant's callback url to authenticate the user in the game
 
-    |           |                         |
-    | --------- | -----------------       |
-    | path      | **`/auth`**             |
-    | method    | **`POST`**              |
-    | headers    | **`x-api-key`**        |
+| path    | **`/auth`**     |
+| ------- | --------------- |
+| method  | **`POST`**      |
+| headers | **`x-api-key`** |
 
 ### Request
 

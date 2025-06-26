@@ -9,9 +9,8 @@ import TabItem from '@theme/TabItem';
 
 This request is used to deduct a given amount from a player's wallet
 
-|         |                 |
-| ------- | --------------- |
 | path    | **`/deduct`**   |
+| ------- | --------------- |
 | method  | **`POST`**      |
 | headers | **`x-api-key`** |
 
