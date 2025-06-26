@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 # Deduct
 
-This request is used to deduct a certain amount from a player's wallet
+This request is used to deduct a given amount from a player's wallet
 
 |         |                 |
 | ------- | --------------- |
