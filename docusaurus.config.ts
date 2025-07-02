@@ -5,8 +5,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Vashub Integration Guide",
-  tagline: "Vashub Integration Guide",
+  title: "Vas Hub Games Integration Guide",
+  tagline: "Integrate our games into your website or casino in quick easy steps",
   favicon: "img/favicon.png",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
