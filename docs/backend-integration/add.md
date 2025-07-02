@@ -29,7 +29,7 @@ This request is used to add a given amount to a player's wallet
 
     ```json
     {
-      "token": "0ae4b6385b4a5966a5849c0d8b50202a",
+      "token": "6ae4b6385b4a5966a5849c0d8b50202a",
       "amount": 100,
       "action": "win"
     }
