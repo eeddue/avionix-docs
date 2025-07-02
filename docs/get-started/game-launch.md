@@ -19,11 +19,11 @@ To launch a game, the following parameters needed;
 The above parameters are passed to the game's launch url as below;
 
 ```
-  https://{game}.gameyetu.com/?merchant={merchant}&token={token}
+  https://gaems.{game}.vashub.com/?merchant={merchant}&token={token}
 ```
 
 Example launch url;
 
 ```
-  https://avionix.gameyetu.com/?merchant=gameyetu&token=4512bb329301b0842eae1c4e5441d1909eb7108ee79a09a07f64ee86fa318e09
+  https://games.avionix.vashub.com/?merchant=gameyetu&token=4512bb329301b0842eae1c4e5441d1909eb7108ee79a09a07f64ee86fa318e09
 ```

@@ -81,11 +81,6 @@ const config: Config = {
           position: "left",
           label: "Tutorial",
         },
-        {
-          href: "https://github.com/eeddue/gameyetu-docs",
-          label: "GitHub",
-          position: "right",
-        },
       ],
     },
     footer: {
