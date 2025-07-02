@@ -113,7 +113,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © ${new Date().getFullYear()} Gameyetu`,
+      copyright: `Copyright © ${new Date().getFullYear()} Vashub`,
     },
     prism: {
       theme: prismThemes.github,
