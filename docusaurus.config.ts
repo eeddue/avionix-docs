@@ -113,7 +113,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © ${new Date().getFullYear()} Vashub`,
+      copyright: `Copyright © ${new Date().getFullYear()} Vas Hub`,
     },
     prism: {
       theme: prismThemes.github,
