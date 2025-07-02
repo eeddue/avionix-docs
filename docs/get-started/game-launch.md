@@ -25,5 +25,5 @@ The above parameters are passed to the game's launch url as below;
 Example launch url;
 
 ```
-  https://games.avionix.vashub.com/?merchant=gameyetu&token=4512bb329301b0842eae1c4e5441d1909eb7108ee79a09a07f64ee86fa318e09
+  https://games.avionix.vashub.com/?merchant=vashub&token=4512bb329301b0842eae1c4e5441d1909eb7108ee79a09a07f64ee86fa318e09
 ```

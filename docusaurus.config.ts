@@ -5,8 +5,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Gameyetu Integration Guide",
-  tagline: "Gameyetu Integration Guide",
+  title: "Vashub Integration Guide",
+  tagline: "Vashub Integration Guide",
   favicon: "img/favicon.png",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "eeddue", // Usually your GitHub org/user name.
-  projectName: "gameyetu-docs", // Usually your repo name.
+  projectName: "vashub-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
